@@ -13,6 +13,7 @@ enum Palo{
     ESPADA=2,
     COPA=3
 };
+
 typedef struct {
     int numero;
     enum Palo palo;
